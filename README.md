@@ -5,8 +5,10 @@ This work is just a trying yet. Therefore, I called it version 'alfa'.
 So many more things should be done in order to make it working properly. 
 
 I uploaded only the file that i edited for doing things you may see in the videos I uploaded.
-https://youtu.be/f5V_xxHn5fM
-https://youtu.be/GM9wrz9FDiA
+
+[<img src="https://img.youtube.com/vi/f5V_xxHn5fM/maxresdefault.jpg" width="50%">](https://youtu.be/f5V_xxHn5fM)
+[<img src="https://img.youtube.com/vi/GM9wrz9FDiA/maxresdefault.jpg" width="50%">](https://youtu.be/GM9wrz9FDiA)
+
 
 I just used person detection ability of Darknet project which was trained by default. Darknet project detects 80 objects in total. Basically rest 79 objects are being detected although they are not used. This just reduces performance obviously.
 Therefore, training your own model which will detect only person is a must for better performance. 
