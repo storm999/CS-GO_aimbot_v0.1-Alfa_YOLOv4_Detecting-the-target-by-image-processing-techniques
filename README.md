@@ -5,12 +5,16 @@ This work is just a trying yet. Therefore, I called it version 'alfa'.
 So many more things should be done in order to make it working properly. 
 
 I uploaded only the file that i edited for doing things you may see in the videos I uploaded.
+You may click pictures below to play videos.
+Video 0 
 
-Video 1 - Click to play
+[<img src="https://img.youtube.com/vi/Pdpz8Rhm6G4/maxresdefault.jpg" width="50%">](https://youtu.be/Pdpz8Rhm6G4)
+
+Video 1 
 
 [<img src="https://img.youtube.com/vi/f5V_xxHn5fM/maxresdefault.jpg" width="50%">](https://youtu.be/f5V_xxHn5fM)
 
-Video 2 - Click to play
+Video 2 
 
 [<img src="https://img.youtube.com/vi/GM9wrz9FDiA/maxresdefault.jpg" width="50%">](https://youtu.be/GM9wrz9FDiA)
 
